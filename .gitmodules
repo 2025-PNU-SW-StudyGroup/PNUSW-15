@@ -1,0 +1,6 @@
+[submodule "dudoji-android"]
+	path = dudoji-android
+	url = https://github.com/team-dudoji/dudoji-android.git
+[submodule "dudoji-backend"]
+	path = dudoji-backend
+	url = https://github.com/team-dudoji/dudoji-backend.git
